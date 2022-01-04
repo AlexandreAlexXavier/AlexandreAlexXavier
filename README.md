@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexandre Xavier
-- 👀 I’m interested in Ciberseurity
+- 👀 I’m interested in Cibersecurity
 - 🌱 I’m currently learning Python, .NET C#, Linux and computer networking.
 - 💞️ I’m looking to collaborate on security projects.
 - 📫 You can reach me on https://www.linkedin.com/in/alexandrealex/
